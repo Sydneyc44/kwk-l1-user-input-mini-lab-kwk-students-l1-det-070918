@@ -22,4 +22,6 @@ site = gets.chomp.capitalize
 puts "What food do you want to eat?"
 eats = gets.chomp.capitalize
 
-puts "What "
+puts "How many nights do you want to stay?"
+nights = gets.chomp.capitalize
+
