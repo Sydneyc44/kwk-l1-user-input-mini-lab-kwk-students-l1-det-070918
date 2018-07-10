@@ -18,7 +18,11 @@ puts "What food do you want to eat?"
 
 eat = gets.chomp
 
+puts "Cool #{eat} sounds awesome!"
+
 puts "How many nights do you want to stay?"
 
 nights = gets.chomp
+
+puts "#{nights} is a great choice!"
 
