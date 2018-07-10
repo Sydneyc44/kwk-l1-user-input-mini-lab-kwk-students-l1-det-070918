@@ -19,4 +19,7 @@ stay = gets.chomp.capitalize
 puts "What site do you want to visit?"
 site = gets.chomp.capitalize
 
-puts ""
+puts "What food do you want to eat?"
+eats = gets.chomp.capitalize
+
+puts "What "
